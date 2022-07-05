@@ -1,7 +1,7 @@
 ## Hello there! 👋
 Welcome to my profile!
 
-* My name is Felix and I am pursuing my master's degree in Cyber Security at Instituto Superior Técnico, Portugal. I’m currently working on my Masters thesis related with Blockchain-based DAOs.
+* My name is Felix, and I am pursuing my master’s degree in Cyber Security at Instituto Superior Técnico, Portugal. I’m currently working on my Master’s thesis related to Blockchain-based DAOs.
 
 ### CTF Profile:
 <img src="https://tryhackme-badges.s3.amazonaws.com/ThunderMarks.png" alt="TryHackMe">
