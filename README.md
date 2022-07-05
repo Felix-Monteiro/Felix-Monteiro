@@ -3,6 +3,9 @@ Welcome to my profile!
 
 * My name is Felix and I am pursuing my master's degree in Cyber Security at Instituto Superior Técnico, Portugal. I’m currently working on my Masters thesis related with Blockchain-based DAOs.
 
+### CTF Profile:
+<img src="https://tryhackme-badges.s3.amazonaws.com/ThunderMarks.png" alt="TryHackMe">
+
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,8 +33,6 @@ Welcome to my profile!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%232496ED.svg?&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-4479A1?logo=docker&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-a?logoColor=white&logo=Android&color=3DDC84)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ThunderMarks.png" alt="TryHackMe">
 
 <!--
 **Felix-Saraiva/Felix-Saraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
