@@ -31,7 +31,7 @@ Welcome to my profile!
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-4479A1?logo=docker&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-a?logoColor=white&logo=Android&color=3DDC84)
 
-<script src="https://tryhackme.com/badge/325808"></script>
+![TryhackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/ThunderMarks.png" alt="TryHackMe">)
 
 <!--
 **Felix-Saraiva/Felix-Saraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
