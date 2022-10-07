@@ -23,6 +23,7 @@ Welcome to my profile!
 ### Backend Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&logo=spring&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Documentation
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
