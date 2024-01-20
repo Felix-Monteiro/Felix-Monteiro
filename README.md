@@ -1,7 +1,7 @@
 ## Hello there! 👋
 Welcome to my profile!
 
-* My name is Felix, and I am Msc Cyber Security Engineer, working in a blue team as a Digital forensics and incident response Analyst!
+* My name is Felix, and I am a Msc Cyber Security Engineer. Currently working in a blue team as a Digital Forensics and Incident Response Analyst!
 
 ### CTF Profile:
 <img src="https://tryhackme-badges.s3.amazonaws.com/ThunderMarks.png" alt="TryHackMe">
